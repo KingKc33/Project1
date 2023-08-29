@@ -22,14 +22,15 @@ version 1.1. Details are in `fonts/LICENSE.txt`.
 ## Project Report
 
 ### Reflection
-(One or more prose paragraphs meeting the requirements described above.)
+The most challenging part of this project was learning a lot of new information at once. This was my first time creating a repository and commiting to it through a command prompt. The process of troubleshooting and eventually refering to the videos not only helped me understand this process, but helped me to get more comfortable with git and using the command prompt as a whole. This was also my first time being hands on with Godot. It was a slow process but in familiarizing myself with the software I've come to enjoy it and I am now able to use it more fluidly than before. Lastly, working with a new coding language was a hurdle. However, my experience with python and C# had enough overlap to make picking up this new language intuitive. I'm glad to have stuck through this project and given myself the time to analyze and understand every step. 
 
 ### Self-Assessment
 
-- [X] D-1 ...
-- [X] C-1 ...
-  - Explanation of C-1...
-- [X] B-1 ...
+- [X] D-1 
+- [X] C-1 
+- [X] C-2
+- [X] B-1
+- [X] B-2 
 - [X] A-1
 
 This work therefore merits a A.
